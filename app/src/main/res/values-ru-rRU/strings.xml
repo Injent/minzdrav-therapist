@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Терапевт</string>
+    <string name="destination_home">Главная</string>
+    <string name="alert_no_internet_connection">Подключение к интернету отсутствует</string>
+    <string name="destination_docs">Документы</string>
+    <string name="alert_internet_connection_established">Подключение к интернету восстановлено</string>
+</resources>

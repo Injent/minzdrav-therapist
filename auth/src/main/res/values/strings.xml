@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string translatable="false" name="account_type">ru.minzdrav</string>
+    <string name="failure_login_is_empty">Login not filled</string>
+    <string name="failure_password_must_contain_uppercase">Password must contain uppercase letters</string>
+    <string name="failure_password_must_contain_lowercase">Password must contain lowercase letters</string>
+    <string name="failure_password_must_contain_digits">Password must contain digits from 0 to 9</string>
+    <string name="failure_password_must_contain_special_char">Password must contain a special character</string>
+    <string name="failure_password_is_empty">Password must not be empty</string>
+    <string name="failure_password_is_short">Password must contains at least 8 characters</string>
+</resources>

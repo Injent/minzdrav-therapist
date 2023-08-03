@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="update_available">Доступно обновление</string>
+    <string name="hint_update_available">Обновлять приложение необходимо постоянно во избежание ошибок</string>
+    <string name="install">Установить</string>
+</resources>

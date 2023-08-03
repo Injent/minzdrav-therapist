@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="notification_channel_update_download_name">Update Downloading</string>
+    <string name="update_download_notification_title">Update Downloading</string>
+</resources>

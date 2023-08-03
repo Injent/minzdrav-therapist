@@ -1,0 +1,772 @@
+[
+    {
+        "id": -1500670976556161934,
+        "patient": {
+            "name": {
+                "firstName": "Dudley",
+                "lastName": "Mitchell",
+                "middleName": "Bechtelar"
+            },
+            "birthDate": "2079-09-24",
+            "sex": "FEMALE",
+            "residenceAddress": {
+                "territory": "Luisafurt",
+                "populatedArea": "Michigan",
+                "street": "7101 Volkman Creek",
+                "building": 709,
+                "block": 8,
+                "flatNumber": 93
+            },
+            "currentAddress": {
+                "territory": "Luisafurt",
+                "populatedArea": "Michigan",
+                "street": "7101 Volkman Creek",
+                "building": 709,
+                "block": 8,
+                "flatNumber": 93
+            },
+            "contactNumber": "494.228.9277",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-6211564644040606620",
+                "active": true,
+                "name": "and Sons",
+                "alias": [
+                    "world-class"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "1-265-589-0739"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Lourdes",
+                        "lastName": "Daugherty",
+                        "middleName": "Enrico Rebekah Labadie DVM"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Port Katelynn",
+                        "populatedArea": "Indiana",
+                        "street": "067 Ed Knolls",
+                        "building": 53808,
+                        "block": 5,
+                        "flatNumber": 13
+                    }
+                }
+            }
+        },
+        "complaints": "aut et et eligendi odio fuga molestiae explicabo dignissimos omnis nobis voluptatem sed ut occaecati atque sunt qui perferendis non adipisci natus qui",
+        "status": "AWAITS",
+        "registrationDate": "2023-08-02T02:56:51.780837300Z"
+    },
+    {
+        "id": 2791958421955844639,
+        "patient": {
+            "name": {
+                "firstName": "Mohammed",
+                "lastName": "Jones",
+                "middleName": "Medhurst"
+            },
+            "birthDate": "2087-03-21",
+            "sex": "FEMALE",
+            "residenceAddress": {
+                "territory": "New Brycenfort",
+                "populatedArea": "Arkansas",
+                "street": "7856 Seamus Stravenue",
+                "building": 72405,
+                "block": 3,
+                "flatNumber": 91
+            },
+            "currentAddress": {
+                "territory": "New Brycenfort",
+                "populatedArea": "Arkansas",
+                "street": "7856 Seamus Stravenue",
+                "building": 72405,
+                "block": 3,
+                "flatNumber": 91
+            },
+            "contactNumber": "824.457.8880",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "6035770760167484995",
+                "active": true,
+                "name": "Inc",
+                "alias": [
+                    "portals"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "161.755.6988"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Joanny",
+                        "lastName": "Kohler",
+                        "middleName": "Miss Rick Mafalda Lesch"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "West Darian",
+                        "populatedArea": "Montana",
+                        "street": "9321 Hills Stream",
+                        "building": 56535,
+                        "block": 10,
+                        "flatNumber": 74
+                    }
+                }
+            }
+        },
+        "complaints": "voluptates minima et tempore quibusdam ut consequatur rerum rerum beatae rerum excepturi libero reprehenderit minima consequatur non enim repellendus cupiditate commodi officia occaecati",
+        "status": "EMERGENCY",
+        "registrationDate": "2023-08-02T03:20:51.792804800Z"
+    },
+    {
+        "id": -7853934852101192291,
+        "patient": {
+            "name": {
+                "firstName": "Lonzo",
+                "lastName": "Greenholt",
+                "middleName": "Hermiston"
+            },
+            "birthDate": "2053-06-09",
+            "sex": "UNKNOWN",
+            "residenceAddress": {
+                "territory": "Gulgowskitown",
+                "populatedArea": "Hawaii",
+                "street": "44551 Reichel Pike",
+                "building": 63261,
+                "block": 1,
+                "flatNumber": 89
+            },
+            "currentAddress": {
+                "territory": "Gulgowskitown",
+                "populatedArea": "Hawaii",
+                "street": "44551 Reichel Pike",
+                "building": 63261,
+                "block": 1,
+                "flatNumber": 89
+            },
+            "contactNumber": "566-388-4597",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-2688976261635609979",
+                "active": true,
+                "name": "LLC",
+                "alias": [
+                    "convergence"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "(418) 627-0664"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Edmond",
+                        "lastName": "Gulgowski",
+                        "middleName": "Kelton Cydney Johnson"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Chaddshire",
+                        "populatedArea": "Massachusetts",
+                        "street": "3259 Cummerata Landing",
+                        "building": 83004,
+                        "block": 3,
+                        "flatNumber": 153
+                    }
+                }
+            }
+        },
+        "complaints": "eaque dolorem commodi ducimus nesciunt ex libero dignissimos dolores deleniti in expedita labore quae et aut deserunt ut excepturi harum tempora vel ut",
+        "status": "AWAITS",
+        "registrationDate": "2023-08-02T03:01:51.795797100Z"
+    },
+    {
+        "id": -9205386974305350651,
+        "patient": {
+            "name": {
+                "firstName": "Aisha",
+                "lastName": "Kessler",
+                "middleName": "Legros"
+            },
+            "birthDate": "2054-07-05",
+            "sex": "UNKNOWN",
+            "residenceAddress": {
+                "territory": "Lake Jacky",
+                "populatedArea": "Connecticut",
+                "street": "358 Bogisich Corners",
+                "building": 6688,
+                "block": 10,
+                "flatNumber": 8
+            },
+            "currentAddress": {
+                "territory": "Lake Jacky",
+                "populatedArea": "Connecticut",
+                "street": "358 Bogisich Corners",
+                "building": 6688,
+                "block": 10,
+                "flatNumber": 8
+            },
+            "contactNumber": "692-427-7657",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-5678752036033232931",
+                "active": true,
+                "name": "Group",
+                "alias": [
+                    "matrix"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "567.173.2264"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Charity",
+                        "lastName": "Larkin",
+                        "middleName": "Dr. Nicklaus Janelle Rosenbaum"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Robelland",
+                        "populatedArea": "Minnesota",
+                        "street": "229 Emely Manors",
+                        "building": 420,
+                        "block": 5,
+                        "flatNumber": 27
+                    }
+                }
+            }
+        },
+        "complaints": "aliquam nesciunt rem eum suscipit tenetur minima corrupti nisi mollitia inventore molestias et recusandae aut officiis eius reprehenderit aut eius officiis consequatur quia",
+        "status": "INSPECTED",
+        "registrationDate": "2023-08-02T03:00:51.798789500Z"
+    },
+    {
+        "id": -818367057643962821,
+        "patient": {
+            "name": {
+                "firstName": "Gardner",
+                "lastName": "Windler",
+                "middleName": "Boyer"
+            },
+            "birthDate": "2051-07-24",
+            "sex": "FEMALE",
+            "residenceAddress": {
+                "territory": "New Stellaburgh",
+                "populatedArea": "North Dakota",
+                "street": "6785 Kyleigh Point",
+                "building": 65623,
+                "block": 4,
+                "flatNumber": 93
+            },
+            "currentAddress": {
+                "territory": "New Stellaburgh",
+                "populatedArea": "North Dakota",
+                "street": "6785 Kyleigh Point",
+                "building": 65623,
+                "block": 4,
+                "flatNumber": 93
+            },
+            "contactNumber": "087.447.4889",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-3243884550461879497",
+                "active": true,
+                "name": "and Sons",
+                "alias": [
+                    "morph"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "805.057.1010"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Einar",
+                        "lastName": "Bednar",
+                        "middleName": "Elsa Adrianna Greenholt"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "East Bella",
+                        "populatedArea": "Minnesota",
+                        "street": "69852 Keaton Throughway",
+                        "building": 296,
+                        "block": 1,
+                        "flatNumber": 101
+                    }
+                }
+            }
+        },
+        "complaints": "quisquam delectus sint assumenda ea qui repellendus nobis neque quisquam illo quod consequatur optio magnam quia quidem ducimus minima dolor et est omnis",
+        "status": "EMERGENCY",
+        "registrationDate": "2023-08-02T03:38:51.804773500Z"
+    },
+    {
+        "id": -4405673996645415783,
+        "patient": {
+            "name": {
+                "firstName": "Elvera",
+                "lastName": "Smith",
+                "middleName": "Lubowitz"
+            },
+            "birthDate": "2059-04-21",
+            "sex": "FEMALE",
+            "residenceAddress": {
+                "territory": "Lake Jeniferfort",
+                "populatedArea": "Tennessee",
+                "street": "9382 Adolph Circles",
+                "building": 32349,
+                "block": 7,
+                "flatNumber": 26
+            },
+            "currentAddress": {
+                "territory": "Lake Jeniferfort",
+                "populatedArea": "Tennessee",
+                "street": "9382 Adolph Circles",
+                "building": 32349,
+                "block": 7,
+                "flatNumber": 26
+            },
+            "contactNumber": "561-829-0558",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "3225751669149591660",
+                "active": true,
+                "name": "and Sons",
+                "alias": [
+                    "harness"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "1-244-669-9590"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Sonia",
+                        "lastName": "Franecki",
+                        "middleName": "Sherman Viviane Donnelly"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "New Leonorfort",
+                        "populatedArea": "Iowa",
+                        "street": "51990 Willms Wells",
+                        "building": 24547,
+                        "block": 10,
+                        "flatNumber": 189
+                    }
+                }
+            }
+        },
+        "complaints": "reprehenderit repellat delectus aut voluptatem culpa ab nisi officia aliquam est recusandae reprehenderit voluptates repellendus numquam et omnis optio id esse occaecati non",
+        "status": "EMERGENCY",
+        "registrationDate": "2023-08-02T03:18:51.806768Z"
+    },
+    {
+        "id": 9193971133605733315,
+        "patient": {
+            "name": {
+                "firstName": "Cary",
+                "lastName": "Boehm",
+                "middleName": "Bogisich"
+            },
+            "birthDate": "2087-03-05",
+            "sex": "UNKNOWN",
+            "residenceAddress": {
+                "territory": "Shadmouth",
+                "populatedArea": "Colorado",
+                "street": "43535 Green Forks",
+                "building": 915,
+                "block": 2,
+                "flatNumber": 5
+            },
+            "currentAddress": {
+                "territory": "Shadmouth",
+                "populatedArea": "Colorado",
+                "street": "43535 Green Forks",
+                "building": 915,
+                "block": 2,
+                "flatNumber": 5
+            },
+            "contactNumber": "285-359-2136",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "4104229877556806414",
+                "active": true,
+                "name": "LLC",
+                "alias": [
+                    "mission-critical"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "1-943-130-2461"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Imelda",
+                        "lastName": "Carroll",
+                        "middleName": "Miss Izabella Bernita Howe"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Port Cliftonburgh",
+                        "populatedArea": "Indiana",
+                        "street": "0484 Stokes Mills",
+                        "building": 48612,
+                        "block": 6,
+                        "flatNumber": 98
+                    }
+                }
+            }
+        },
+        "complaints": "incidunt sit quae enim optio iste eum consequatur quisquam distinctio ex quis aut molestiae quo nemo placeat nesciunt et quasi sunt necessitatibus ipsum",
+        "status": "AWAITS",
+        "registrationDate": "2023-08-02T03:22:51.809759800Z"
+    },
+    {
+        "id": 7689412549720164494,
+        "patient": {
+            "name": {
+                "firstName": "Katelyn",
+                "lastName": "Kemmer",
+                "middleName": "Beahan"
+            },
+            "birthDate": "2064-01-01",
+            "sex": "UNKNOWN",
+            "residenceAddress": {
+                "territory": "New Leanne",
+                "populatedArea": "Maine",
+                "street": "299 Kohler Plains",
+                "building": 2112,
+                "block": 8,
+                "flatNumber": 20
+            },
+            "currentAddress": {
+                "territory": "New Leanne",
+                "populatedArea": "Maine",
+                "street": "299 Kohler Plains",
+                "building": 2112,
+                "block": 8,
+                "flatNumber": 20
+            },
+            "contactNumber": "(890) 282-0001",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-1724304191100549389",
+                "active": true,
+                "name": "Group",
+                "alias": [
+                    "vortals"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "1-956-428-7426"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Maiya",
+                        "lastName": "Schamberger",
+                        "middleName": "Marcelle Torrance Ritchie"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Larkinhaven",
+                        "populatedArea": "Kansas",
+                        "street": "7124 Mraz Fall",
+                        "building": 96890,
+                        "block": 1,
+                        "flatNumber": 32
+                    }
+                }
+            }
+        },
+        "complaints": "placeat repellat consequuntur eaque voluptas autem quod non soluta iure quia dolor ratione suscipit omnis ratione reprehenderit rerum deleniti magni quia corporis deserunt",
+        "status": "INSPECTED",
+        "registrationDate": "2023-08-02T03:15:51.812751600Z"
+    },
+    {
+        "id": -4715494582856661164,
+        "patient": {
+            "name": {
+                "firstName": "Hilario",
+                "lastName": "Hahn",
+                "middleName": "Bayer"
+            },
+            "birthDate": "2056-01-05",
+            "sex": "FEMALE",
+            "residenceAddress": {
+                "territory": "Leannonchester",
+                "populatedArea": "New York",
+                "street": "66237 Hermiston Springs",
+                "building": 11320,
+                "block": 1,
+                "flatNumber": 4
+            },
+            "currentAddress": {
+                "territory": "Leannonchester",
+                "populatedArea": "New York",
+                "street": "66237 Hermiston Springs",
+                "building": 11320,
+                "block": 1,
+                "flatNumber": 4
+            },
+            "contactNumber": "(070) 765-4815",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "3614998230858459241",
+                "active": true,
+                "name": "Group",
+                "alias": [
+                    "implement"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "(769) 074-9876"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Daniella",
+                        "lastName": "Schneider",
+                        "middleName": "Loren Caroline Stokes Sr."
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Vernerfurt",
+                        "populatedArea": "New Hampshire",
+                        "street": "735 Macey Center",
+                        "building": 42,
+                        "block": 7,
+                        "flatNumber": 195
+                    }
+                }
+            }
+        },
+        "complaints": "quia libero consequatur et enim soluta debitis minus tempore sunt quod quam beatae recusandae eius autem aliquam corporis occaecati quia cumque excepturi iusto",
+        "status": "EMERGENCY",
+        "registrationDate": "2023-08-02T03:31:51.814746400Z"
+    },
+    {
+        "id": -6260753718757548089,
+        "patient": {
+            "name": {
+                "firstName": "Kieran",
+                "lastName": "Ernser",
+                "middleName": "Torp"
+            },
+            "birthDate": "2078-12-23",
+            "sex": "MALE",
+            "residenceAddress": {
+                "territory": "Missourimouth",
+                "populatedArea": "Arkansas",
+                "street": "436 Dina Mill",
+                "building": 270,
+                "block": 7,
+                "flatNumber": 90
+            },
+            "currentAddress": {
+                "territory": "Missourimouth",
+                "populatedArea": "Arkansas",
+                "street": "436 Dina Mill",
+                "building": 270,
+                "block": 7,
+                "flatNumber": 90
+            },
+            "contactNumber": "(186) 047-4836",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-7486944915453550859",
+                "active": true,
+                "name": "Group",
+                "alias": [
+                    "benchmark"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "177-324-1161"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Fabiola",
+                        "lastName": "Breitenberg",
+                        "middleName": "Ms. Forest Rocky Wisoky"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "South Maxwellport",
+                        "populatedArea": "Louisiana",
+                        "street": "7916 Paige Port",
+                        "building": 480,
+                        "block": 7,
+                        "flatNumber": 44
+                    }
+                }
+            }
+        },
+        "complaints": "quas non qui consequatur suscipit eius saepe quis impedit dolorem perferendis explicabo quos ducimus quo molestiae ab ipsum perspiciatis voluptates excepturi voluptatem nulla",
+        "status": "AWAITS",
+        "registrationDate": "2023-08-02T02:56:51.816740900Z"
+    },
+    {
+        "id": -4446446514793384622,
+        "patient": {
+            "name": {
+                "firstName": "Katelynn",
+                "lastName": "McClure",
+                "middleName": "Jr."
+            },
+            "birthDate": "2072-01-25",
+            "sex": "FEMALE",
+            "residenceAddress": {
+                "territory": "Nestorfort",
+                "populatedArea": "Delaware",
+                "street": "36824 Kovacek Neck",
+                "building": 89269,
+                "block": 4,
+                "flatNumber": 6
+            },
+            "currentAddress": {
+                "territory": "Nestorfort",
+                "populatedArea": "Delaware",
+                "street": "36824 Kovacek Neck",
+                "building": 89269,
+                "block": 4,
+                "flatNumber": 6
+            },
+            "contactNumber": "1-577-583-9653",
+            "polis": {
+                "type": "NEW",
+                "number": 1234567890123456
+            },
+            "managingOrganization": {
+                "identifier": "-4857352283865097007",
+                "active": true,
+                "name": "Group",
+                "alias": [
+                    "seize"
+                ],
+                "telecom": [
+                    {
+                        "system": "PHONE",
+                        "value": "(247) 811-3952"
+                    }
+                ],
+                "address": [
+                ],
+                "contact": {
+                    "purpose": "Help",
+                    "name": {
+                        "firstName": "Maudie",
+                        "lastName": "Beahan",
+                        "middleName": "Linnea Sharon Larkin"
+                    },
+                    "telecom": [
+                    ],
+                    "address": {
+                        "territory": "Lake Rudystad",
+                        "populatedArea": "New Hampshire",
+                        "street": "4678 Alexys Brook",
+                        "building": 5244,
+                        "block": 4,
+                        "flatNumber": 200
+                    }
+                }
+            }
+        },
+        "complaints": "et molestias rerum enim est dolorem perferendis et praesentium ut ut expedita quo earum cumque atque fugiat dolores nulla molestiae sint minima exercitationem",
+        "status": "AWAITS",
+        "registrationDate": "2023-08-02T03:40:51.824719400Z"
+    }
+]

@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="11">
+      <module name="build-logic.convention" target="17" />
+      <module name="build-logic.convention.main" target="17" />
+      <module name="build-logic.convention.test" target="17" />
+      <module name="therapist.core.auth" target="17" />
+      <module name="therapist.lint" target="17" />
+      <module name="therapist.lint.main" target="17" />
+      <module name="therapist.lint.test" target="17" />
+      <module name="therapist.update.main" target="1.7" />
+      <module name="therapist.update.test" target="1.7" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="call_status_awaits">Awaits</string>
+    <string name="call_status_inspected">Inspected</string>
+    <string name="call_status_emergency">Emergency</string>
+</resources>

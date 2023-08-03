@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_failed_to_load_list">Failed to load list</string>
+    <string name="chip_label_priority">Priority</string>
+    <string name="chip_label_age">Age</string>
+    <string name="chip_label_time">Call time</string>
+    <string name="chip_label_await">Await</string>
+    <string name="chip_label_all">All</string>
+</resources>

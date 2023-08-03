@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_network_connection">Нет подключения к сети</string>
+    <string name="error_server">Ошибка сервера</string>
+    <string name="error_wrong_credentials">Неверный логин или пароль</string>
+    <string name="action_recover_password">Восстановить пароль</string>
+    <string name="action_sign_in">Войти</string>
+    <string name="action_sign_up">Зарегистрироваться</string>
+    <string name="tip_first_time">Впервые у нас?</string>
+    <string name="label_login">Логин</string>
+    <string name="label_password">Пароль</string>
+    <string name="title_login">Вход</string>
+    <string name="action_cant_log_in">Не удается войти?</string>
+    <string name="action_back">Назад</string>
+    <string name="error_network_connection_description">Включите Wi-Fi или подключитесь к сети, имеющей доступ к интернету</string>
+    <string name="error_server_auth_description">Попробуйте войти позже. Если проблема остается сообщите нам о ней</string>
+    <string name="error_unknown">Неизвестная ошибка</string>
+    <string name="error_wrong_credentials_description">Или вашей учетной записи не существует. Сообщите об этом администрации</string>
+</resources>

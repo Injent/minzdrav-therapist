@@ -1,0 +1,17 @@
+{
+    "version": 2147483647,
+    "fields": [
+        {
+            "type": "TEXTFIELD",
+            "id": "complaints",
+            "label": "Жалобы",
+            "placeholder": "Напишите о жалобах пациента",
+            "singleLine": false
+        },
+        {
+            "type": "CHECKBOX",
+            "id": "is_child",
+            "defaultValue": false
+        }
+    ]
+}

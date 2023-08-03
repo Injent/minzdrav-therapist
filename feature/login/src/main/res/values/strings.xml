@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_network_connection">No internet connection</string>
+    <string name="error_server">Server error</string>
+    <string name="error_wrong_credentials">Wrong login or password</string>
+    <string name="action_recover_password">Recover password</string>
+    <string name="action_sign_in">Sign In</string>
+    <string name="action_sign_up">Sign Up</string>
+    <string name="tip_first_time">First time we have?</string>
+    <string name="label_login">Login</string>
+    <string name="title_login">Sign In</string>
+    <string name="label_password">Password</string>
+    <string name="action_cant_log_in">Can\'t log in?</string>
+    <string name="action_back">Back</string>
+    <string name="error_network_connection_description">Turn on Wi-Fi or connect to a network with Internet access</string>
+    <string name="error_server_auth_description">Try logging in later. If the problem persists, let us know</string>
+    <string name="error_unknown">Unknown Error</string>
+    <string name="error_wrong_credentials_description">Or your account does not exist. Notify the administration</string>
+</resources>

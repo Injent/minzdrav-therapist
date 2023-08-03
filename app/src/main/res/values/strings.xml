@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Therapist</string>
+    <string name="destination_home">Home</string>
+    <string name="alert_no_internet_connection">No internet connection</string>
+    <string name="destination_docs">Documents</string>
+    <string name="alert_internet_connection_established">Internet connection established</string>
+</resources>

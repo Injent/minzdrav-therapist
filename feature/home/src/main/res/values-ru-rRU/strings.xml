@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="error_failed_to_load_list">Не удалось загрузить список</string>
+    <string name="chip_label_priority">Приоритет</string>
+    <string name="chip_label_age">Возвраст</string>
+    <string name="chip_label_time">Время вызова</string>
+    <string name="chip_label_await">Ожидаемые</string>
+    <string name="chip_label_all">Все</string>
+</resources>

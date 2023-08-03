@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="failure_login_is_empty">Логин не заполнен</string>
+    <string name="failure_password_must_contain_uppercase">Пароль должен содержать заглавные буквы</string>
+    <string name="failure_password_must_contain_lowercase">Пароль должен содержать строчные буквы</string>
+    <string name="failure_password_must_contain_digits">Пароль должен содержать цифры от 0 до 9</string>
+    <string name="failure_password_must_contain_special_char">Пароль должен содержать специальный символ</string>
+    <string name="failure_password_is_empty">Пароль не должен быть пустым</string>
+    <string name="failure_password_is_short">Пароль должен содержать не менее 8 символов</string>
+</resources>

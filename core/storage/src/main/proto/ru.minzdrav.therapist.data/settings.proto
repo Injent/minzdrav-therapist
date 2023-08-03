@@ -1,0 +1,11 @@
+syntax = "proto3";
+
+option java_package = "ru.minzdrav.therapist.core.storage";
+option java_multiple_files = true;
+
+message UserPreferences {
+  string lastUser = 1;
+  int32 callsListVersion = 2;
+  bool syncRequired = 3;
+  bool isInitialized = 4;
+}

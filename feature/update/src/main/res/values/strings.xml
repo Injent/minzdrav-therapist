@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="update_available">Update available</string>
+    <string name="hint_update_available">It is necessary to update the application constantly to avoid issues</string>
+    <string name="install">Install</string>
+</resources>
